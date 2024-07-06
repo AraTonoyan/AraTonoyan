@@ -4,7 +4,7 @@
 I'm a passionate Python programmer with a deep understanding of various programming principles and technologies. With a strong foundation in Object-Oriented Programming (OOP) and SOLID principles, I strive to write clean, maintainable, and efficient code. I enjoy working collaboratively in a team environment, where I can share knowledge and learn from others.
 
 ## Skills
-- **Languages:** Python(main lunguage), C, PHP, (HTML, CSS, JS)
+- **Languages:** Python(main language), C, PHP, (HTML, CSS, JS), SQL(SQLite3, MySQL, PostgreSQL)
 - **Frameworks and Libraries:** FastAPI, Django, Flask, Laravel
 - **Concepts:** OOP, SOLID, Computer Architecture, Network
 
